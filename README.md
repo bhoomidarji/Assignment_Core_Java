@@ -1,7 +1,8 @@
-this assignment is about to different tasks related to core java.
+this assignment is about to different tasks related to cocepts of core java.
 Different patterns,
 array,
 constructor,
+Constructor Chaining,
 try-catch, 
 Abstract method,
 Inheritance,
